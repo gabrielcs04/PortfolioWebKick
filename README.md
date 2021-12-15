@@ -15,6 +15,6 @@
     <p>Seção sobre minhas formações e determinados cursos realizados</p>
     <img src="https://github.com/gabrielcs04/PortfolioWeb/blob/main/images/img003.png">
     <h3>Contato</h3>
-    <p>Seção mostrando a formas de me contactar</p>
+    <p>Seção mostrando as formas de me contactar</p>
     <img src="https://github.com/gabrielcs04/PortfolioWeb/blob/main/images/img004.png">
 </p>
